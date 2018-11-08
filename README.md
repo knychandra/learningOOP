@@ -1,2 +1,2 @@
 # learning_stuffs
-Learning OOP 
+All of the resources / codes I use for the development of my coding skill
